@@ -1,7 +1,7 @@
 <h1 align="center"> Mental Health Awareness </h1>
 
 
-Mental health issues are often not discussed due to the stigma behind them and this results in many people hesitating to seek help for their mental illnesses. Although the Canadian Government has funded several mental health resources for the general public, very few people utilize these platforms. The main reason for this is the lack of awareness regarding mental health concerns and the resources available in Canada. For my research on mental health awareness, I have developed a descriptive mental health Chatbot application called 'Mental Health Awareness.' This Chatbot incorporates Natural Language Processing and Deep Learning Techniques to provide users with a more interactive and friendly conversation when discussing mental health issues
+Mental health issues are often not discussed due to the stigma behind them and this results in many people hesitating to seek help for their mental illnesses.The main reason for this is the lack of awareness regarding mental health concerns and the resources available in India. For my research on mental health awareness, I have developed a descriptive mental health Chatbot application called 'Mental Health Awareness.' This Chatbot incorporates Natural Language Processing and Deep Learning Techniques to provide users with a more interactive and friendly conversation when discussing mental health issues
 ---
 
 ## Repository Details
